@@ -1479,6 +1479,11 @@ Etar is an OpenSource material designed calendar
 Project Address: https://github.com/xsoh/Etar-Calendar  
 Demo Apk: https://play.google.com/store/apps/details?id=ws.xsoh.etar  
 Renderings: ![Etar Calendar](https://raw.githubusercontent.com/xsoh/Etar-Calendar/materialdesign/assets/_pre_prod/publish/v1.0/animation.gif)  
+
+(15) BeeCount  
+A privacy-first cross-platform personal expense tracker (Android / iOS / Web, built with Flutter). Offline-first, with multi-cloud sync options (self-hostable BeeCount Cloud, iCloud, Supabase, WebDAV, S3) — users own their data. Optional AI bill recognition.  
+Project Address: https://github.com/TNT-Likely/BeeCount  
+Demo Apk: https://play.google.com/store/apps/details?id=com.tntlikely.beecount  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 ## 4: Development and testing tools  
