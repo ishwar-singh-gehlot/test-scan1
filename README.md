@@ -65,12 +65,7 @@ Customed View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, 
 Provides a reusable Pull to Refresh widget for Android, support ListView, ExpandableListView, GridView, WebView, ScrollView, HorizontalScrollView, ViewPager, support pulling Down from the top, and Pulling Up from the bottom and so on.  
 Project Address: https://github.com/chrisbanes/Android-PullToRefresh  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refreshview-demo.apk?raw=true  
-Similar App: Sina Weibo Pages  
-   
-1. android-pulltorefresh-listview  
-Pull to refresh listView for android, There is some bug for this.  
-Project Address: https://github.com/johannilsson/android-pulltorefresh  
-Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true   
+Similar App: Sina Weibo Pages   
 
 1. android-Ultra-Pull-to-Refresh    
 It's a replacement for the deprecated pull to refresh solution. It can contain any view you want.
