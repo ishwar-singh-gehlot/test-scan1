@@ -14,7 +14,7 @@ You can download it from **[DevTools@Google Play](https://play.google.com/store/
 
 
 Twitter：[trinea_cn](https://twitter.com/trinea_cn)&nbsp;&nbsp;&nbsp;&nbsp;HomePage: [codekk.com](https://codekk.com/)&nbsp;&nbsp;&nbsp;&nbsp;Email：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)  
-Share：<a href="https://twitter.com/intent/tweet?text=Android Open Source Projects include Personalized Views, Common Util Libs, Excellent projects and so on   %40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="Shared on weibo" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="Shared on weibo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="Share on qzone" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="Shared on tecent weibo" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>
+Share：<a href="https://twitter.com/intent/tweet?text=Android Open Source Projects include Personalized Views, Common Util Libs, Excellent projects and so on   %40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="https://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="https://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="Shared on weibo" style="width:100%"><img src="https://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="Shared on weibo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="Share on qzone" style="width:100%"><img src="https://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="Shared on tecent weibo" style="width:100%"><img src="https://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>
 ### Include：  
 >[1. Personalized Views](#1-personalized-views )  
 *&nbsp;&nbsp;
@@ -80,10 +80,10 @@ Support `API LEVEL >= 8`
 Project Address: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
 Demo Apk: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
 <div>  
-    <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
-    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
-    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="150px"/>  
-    <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="150px"/>  
+    <img src='https://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
+    <img src='https://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
+    <img src='https://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="150px"/>  
+    <img src='https://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="150px"/>  
 </div>   
    
 1. DropDownListView  
@@ -114,7 +114,7 @@ Renderings: ![Renderings](https://raw.githubusercontent.com/yydcdut/SlideAndDrag
 1. RecyclerViewSwipeDismiss
 lightweight support-v7 RecyclerView Swipe to dismiss library，Just bind `onTouchListener`
 Project Address：https://github.com/CodeFalling/RecyclerViewSwipeDismiss
-Renderings: ![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif)
+Renderings: ![Renderings](https://i2.tietuku.com/a5a1a6fbd300397a.gif)
 
 1. Android-SwipeToDismiss
 Android swipe to dismiss listView.
@@ -202,7 +202,7 @@ Android library of a pair of auto-scroll circular parallax ListViews like the on
 Project Address: https://github.com/jpardogo/ListBuddies   
 Demo Apk: https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies   
 Renderings: ![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
 
 1. RecyclerItemDecoration  
 RecyclerItemDecoration allows you to draw divider between items in recyclerview with multiple ViewType without considering items' positions!
@@ -231,7 +231,7 @@ Similar App: google music
 1. NotBoringActionBar  
 Auto dismiss actionbar when content scroll down.
 Project Address: https://github.com/flavienlaurent/NotBoringActionBar  
-Demo Apk: http://flavienlaurent.com/blog/2013/11/20/making-your-action-bar-not-boring/  
+Demo Apk: https://flavienlaurent.com/blog/2013/11/20/making-your-action-bar-not-boring/  
 Similar App: google music  
    
 1. RefreshActionItem  
@@ -245,13 +245,13 @@ An Android library which implements a glass-like effect for the action bar.
 Project Address: https://github.com/ManuelPeinado/GlassActionBar  
 Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.glassactionbardemo  
 Similar App: google music  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 3. Menu   
 1. MenuDrawer   
 A slide-out menu implementation, which allows users to navigate between views in your app. Most commonly the menu is revealed by either dragging the edge of the screen, or clicking the 'up' button in the action bar. It support content below or up to menu when compare to SlidingMenu.  
 Project Address: https://github.com/SimonVT/android-menudrawer  
-Demo Apk: http://simonvt.github.io/android-menudrawer/  
+Demo Apk: https://simonvt.github.io/android-menudrawer/  
 Similar App: Gmail, Google Music  
    
 1. SlidingMenu  
@@ -275,7 +275,7 @@ Similar App: Path
 1. radial-menu-widget  
 A radial (pie) menu for Android.  
 Project Address: https://code.google.com/p/radial-menu-widget/  
-Renderings: http://farm8.staticflickr.com/7377/11621125154_d1773c2dcc_o.jpg  
+Renderings: https://farm8.staticflickr.com/7377/11621125154_d1773c2dcc_o.jpg  
    
 1. Android Wheel Menu  
 Circular menu widget for Android.  
@@ -297,7 +297,7 @@ Renderings: ![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/m
 Extended FloatingActionMenu lib, with custom menu icon, animation when scrolling.
 Project Address: https://github.com/toanvc/FloatingActionMenu-Animation  
 Renderings: ![Renderings](https://github.com/toanvc/FloatingActionMenu-Animation/raw/master/screenshots/scale.gif)    
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 #### 4. ViewPager Gallery  
 1. Android-ViewPagerIndicator  
@@ -359,7 +359,7 @@ Project Address: https://github.com/inovex/ViewPager3D
 1. AnimaTabsview    
 A animation effect like 网易云音乐    
 Project Address: https://github.com/wuyexiong/transparent-over-animtabsview   
-Demo: http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html    
+Demo: https://v.youku.com/v_show/id_XNzA4MjY5NjA0.html    
 
 1. LoopingViewPager
 A ViewPager which support loop scroll.
@@ -374,7 +374,7 @@ Demo: https://www.youtube.com/watch?v=iwu7P5PCpsw
 1. ViewPagerIndicator
 A custom ViewPagerIndicator.
 Project Address: https://github.com/LuckyJayce/ViewPagerIndicator
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 1. ScreenSlideIndicator
 Lightweight ViewPager Cycle Indicator.
@@ -388,7 +388,7 @@ Project Address: https://github.com/inovex/ViewPager3D
 1. AnimaTabsview
 A animation effect like 网易云音乐
 Project Address: https://github.com/wuyexiong/transparent-over-animtabsview
-Demo: http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html
+Demo: https://v.youku.com/v_show/id_XNzA4MjY5NjA0.html
 
 1. LoopingViewPager
 A ViewPager which support loop scroll.
@@ -414,7 +414,7 @@ A ViewPager implemention inherits from RecyclerView. Support fling operation lik
 Project Address: [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
 Renderings:
 ![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 1. WoWoViewPager
 A material design Viewpager.Optimized for scrolling app intros or making your CV app. Free and open source.
@@ -462,7 +462,7 @@ Renderings: ![Renderings](https://github-camo.global.ssl.fastly.net/90b57e938370
 1. PagedDragDropGrid  
 An Android ViewGroup that implements a paged grid with drag'n'drop moveable items. It can swich from left screen to right, if you want switch from up to bottom please use DraggableGridView above.   
 Project Address: https://github.com/mrKlar/PagedDragDropGrid  
-Demo视频：http://youtu.be/FYTSRfthSuQ  
+Demo视频：https://youtu.be/FYTSRfthSuQ  
 
 1. Android-DraggableGridViewPager  
 Zaker style grid view pager, support dragging & rearrange, using as zaker's main screen. 
@@ -473,7 +473,7 @@ Demo Apk: https://github.com/Trinea/trinea-download/blob/master/draggable-grid-v
 Same with `ListView`. It allows you call `addHeaderView()`, `addFooterView` to add views to GridView.    
 Project Address：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter    
 Renderings：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 6. ImageView  
 1. PhotoView  
@@ -525,7 +525,7 @@ Project Address: https://github.com/flavioarfaria/KenBurnsView
 Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs.    
 Project Address: https://github.com/MostafaGazar/CustomShapeImageView     
 Renderings: ![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2013-11-05-23-08-12.png)   
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 7. ProgressBar  
 1. SmoothProgressBar  
@@ -554,8 +554,8 @@ Renderings: ![Renderings](https://raw.github.com/passsy/android-HoloCircularProg
 1. ProgressButton  
 A custom progress indicator with a tiny footprint.  
 Project Address: https://github.com/f2prateek/progressbutton   
-Document: http://f2prateek.com/progressbutton/   
-Renderings: ![Renderings](http://f2prateek.com/progressbutton/static/states.png)  
+Document: https://f2prateek.com/progressbutton/   
+Renderings: ![Renderings](https://f2prateek.com/progressbutton/static/states.png)  
 
 1. GoogleProgressBar  
 Android library to display different kind of google related animations for the progressBar.   
@@ -597,7 +597,7 @@ Renderings: ![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a
 MaterialLoadingProgressBar provide a styled ProgressBar which looks like SwipeRefreshLayout's loading indicator(support-v4 v21+)
 Project Address:https://github.com/lsjwzh/MaterialLoadingProgressBar
 Renderings: ![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 1. LoadingDrawable
 some beautiful android loading drawable, can be combined with any view as the loading view and the progressbar.<br>
@@ -622,7 +622,7 @@ Include TextView and other views extend TextView, like EditText, Button, RadioBu
 1. android-flowtextview  
 A TextView for Android which supports text wrapping around other views.  
 Project Address: https://code.google.com/p/android-flowtextview/  
-Renderings: http://i949.photobucket.com/albums/ad332/vostroman1500/1.png  
+Renderings: https://i949.photobucket.com/albums/ad332/vostroman1500/1.png  
   
 1. Android Form EditText  
 Android form edit text is an extension of EditText that brings data validation facilities to the edit text.  
@@ -632,7 +632,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.andreabaccega.editte
 1. Emojicon  
 A library to show emoji in TextView, EditText (like WhatsApp) for Android.  
 Project Address: https://github.com/rockerhieu/emojicon  
-Document: http://rockerhieu.com/emojicon/    
+Document: https://rockerhieu.com/emojicon/    
 
 1. android-circlebutton  
 Circle button widget for Android, extend from ImageView actually.  
@@ -662,7 +662,7 @@ Project Address: https://github.com/RomainPiel/Shimmer-android
 Android experiment showing a sinking TextView.  
 Project Address: https://github.com/RomainPiel/Titanic    
 Renderings: ![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. MoneyTextView  
 A TextView used for inputing and adding money.  
@@ -680,12 +680,12 @@ Renderings:
 1. achartengine  
 AChartEngine is a charting library for Android applications. It currently supports the following chart types: line chart, area chart, scatter chart, time chart, bar chart, pie chart, bubble chart, doughnut chart, range (high-low) bar chart, dial chart / gauge, combined (any combination of line, cubic line, scatter, bar, range bar, bubble) chart, cubic line chart and so on.  
 Project Address: https://code.google.com/p/achartengine/  
-Official Website: http://www.achartengine.org/  
-Renderings: ![Renderings](http://www.achartengine.org/dimages/average_temperature.png)  
-http://www.achartengine.org/dimages/sales_line_and_area_chart.png  
-http://www.achartengine.org/dimages/temperature_range_chart.png  
-http://www.achartengine.org/dimages/combined_chart.png  
-http://www.achartengine.org/dimages/budget_chart.png  
+Official Website: https://www.achartengine.org/  
+Renderings: ![Renderings](https://www.achartengine.org/dimages/average_temperature.png)  
+https://www.achartengine.org/dimages/sales_line_and_area_chart.png  
+https://www.achartengine.org/dimages/temperature_range_chart.png  
+https://www.achartengine.org/dimages/combined_chart.png  
+https://www.achartengine.org/dimages/budget_chart.png  
 Similar App: Wordpress Android，Google Analytics  
    
 1. GraphView  
@@ -730,7 +730,7 @@ Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/styled-dialogs-de
 1. Crouton  
 Context sensitive notifications for Android, like toast. Include style like alert, confirm , info and click to dismiss, allow to set time of display and customed view.  
 Project Address: https://github.com/keyboardsurfer/Crouton  
-Demo Apk: http://play.google.com/store/apps/details?id=de.keyboardsurfer.app.demo.crouton  
+Demo Apk: https://play.google.com/store/apps/details?id=de.keyboardsurfer.app.demo.crouton  
    
 1. supertooltips  
 SuperToolTips is an Open Source Android library that allows developers to easily create Tool Tips for views.   
@@ -763,7 +763,7 @@ Renderings: ![Renderings](https://raw.github.com/kenumir/android-calendar-card/m
 1. ColorPickerView  
 A simple yet beautiful color picker component for Android.  
 Project Address: https://code.google.com/p/color-picker-view/  
-Renderings: ![Renderings](http://oi41.tinypic.com/33c6mm8.jpg)  
+Renderings: ![Renderings](https://oi41.tinypic.com/33c6mm8.jpg)  
    
 1. HoloColorPicker  
 An Android Holo themed colorpicker.
@@ -773,12 +773,12 @@ Demo Apk: https://docs.google.com/file/d/0BwclyDTlLrdXRzVnTGJvTlRfU2s/edit
 1. AndroidWheel  
 Custom wheel widget for android.  
 Project Address: https://github.com/sephiroth74/AndroidWheel  
-Renderings: ![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
+Renderings: ![Renderings](https://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
    
 1. TableFixHeaders  
 Android library that implements a table with fixed headers.  
 Project Address: https://github.com/InQBarna/TableFixHeaders  
-Demo Apk: http://bit.ly/13buAIq  
+Demo Apk: https://bit.ly/13buAIq  
    
 1. UITableView  
 Library and example project on how to use the UITableView component.  
@@ -831,13 +831,13 @@ Renderings：![Renderings](https://github.com/DreaminginCodeZH/PatternLock/raw/m
 Android widget for selecting a range of values. It provides for the selection of a range of values rather than a single value.  
 Project Address: https://github.com/edmodo/range-bar  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo.apk?raw=true  
-Renderings: ![Renderings](http://i.imgur.com/q85GhRjl.png)  
+Renderings: ![Renderings](https://i.imgur.com/q85GhRjl.png)  
   
 1. SuperToasts  
 The SuperToasts library enhances and builds upon the Android Toast class. Some of the features of this library include context sensitive toasts (SuperActivityToasts), toasts with buttons and icons, non context sensitive toasts (SuperToasts), and a new style of toasts (SuperCardToasts) with many customization options for each.  
 Project Address: https://github.com/JohnPersano/SuperToasts  
 Demo Apk: https://play.google.com/store/apps/details?id=com.supertoastsdemo  
-Renderings: ![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
+Renderings: ![SuperButtonToast](https://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
 
 1. GoogleDateTimePickers  
 New Google Date and time pickers.
@@ -884,7 +884,7 @@ Project Address: https://github.com/hoang8f/android-segmented-control
 Pull and background rebound effect.  
 Project Address: https://github.com/MarkMjw/PullScrollView    
 Renderings: ![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. ArcLayout  
 A very simple arc layout library. 
@@ -926,7 +926,7 @@ Renderings:
 
 
 ## 2. Common Util Libs  
-Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 1. Dependency Injection  
 Speeds up Android development by dependency injection  
 
@@ -934,7 +934,7 @@ Speeds up Android development by dependency injection
 AndroidAnnotations is an Open Source framework that speeds up Android development. It takes care of the plumbing, and lets you concentrate on what's really important.  
 Project Address: https://github.com/excilys/androidannotations  
 Document: https://github.com/excilys/androidannotations/wiki  
-Official Website: http://androidannotations.org/  
+Official Website: https://androidannotations.org/  
    
 1. roboguice  
 RoboGuice 2 takes the guesswork out of development. Inject your View, Resource, System Service, or any other object, and let RoboGuice 2 take care of the details.  
@@ -944,30 +944,30 @@ Document: https://github.com/roboguice/roboguice/wiki
 1. butterknife  
 View "injection" library for Android.  
 Project Address: https://github.com/JakeWharton/butterknife  
-Document: http://jakewharton.github.io/butterknife/  
+Document: https://jakewharton.github.io/butterknife/  
    
 1. Dagger  
 A fast dependency injector for Android and Java.    
 Project Address: https://github.com/square/dagger  
-Document: http://square.github.io/dagger/  
+Document: https://square.github.io/dagger/  
 
 1. Anvil
 A small library for building reactive UI components, data binding and event listener injection. Inspired by React.    
 Project Address: https://github.com/zserge/anvil  
-Document: http://anvil.site/  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+Document: https://anvil.site/  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 2. Image Cache  
 1. Android-Universal-Image-Loader  
 Powerful and flexible library for loading, caching and displaying images on Android.  
 Project Address: https://github.com/nostra13/Android-Universal-Image-Loader  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/universal-imageloader-demo.apk?raw=true  
-Document: http://www.intexsoft.com/blog/item/74-universal-image-loader-part-3.html  
+Document: https://www.intexsoft.com/blog/item/74-universal-image-loader-part-3.html  
    
 1. picasso  
 A powerful image downloading and caching library for Android  
 Project Address: https://github.com/square/picasso  
-Document: http://square.github.io/picasso/  
+Document: https://square.github.io/picasso/  
    
 1. ImageCache  
 Image Cache, support multi caching algorithms  
@@ -979,25 +979,25 @@ Document: https://www.trinea.cn/android/android-imagecache/
 Easy to use, high performance, used in some of the Apps in Alibaba Group.
 Project Address：https://github.com/etao-open-source/cube-sdk  
 Demo Apk：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
-Document：http://cube-sdk.liaohuqiu.net/  
+Document：https://cube-sdk.liaohuqiu.net/  
 Renderings: ![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 3. Network  
 1. Retrofit  
 Type-safe REST client for Android and Java by Square  
 Project Address: https://github.com/square/retrofit  
-Document: http://square.github.io/retrofit/  
+Document: https://square.github.io/retrofit/  
 
 1. okhttp  
 An HTTP+SPDY client for Android and Java applications.  
 Project Address: https://github.com/square/okhttp  
-Document: http://square.github.io/okhttp/  
+Document: https://square.github.io/okhttp/  
 
 1. Asynchronous Http Client for Android  
 An asynchronous, callback-based Http client for Android built on top of Apache's HttpClient libraries.  
 Project Address: https://github.com/loopj/android-async-http  
-Document: http://loopj.com/android-async-http/  
+Document: https://loopj.com/android-async-http/  
    
 1. android-query  
 Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.   
@@ -1008,7 +1008,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.androidquery
 1. Async Http Client  
 Asynchronous Http and WebSocket Client library for Java  
 Project Address: https://github.com/AsyncHttpClient/async-http-client  
-Document: http://sonatype.github.io/async-http-client/  
+Document: https://sonatype.github.io/async-http-client/  
    
 1. Ion  
 Android Asynchronous Networking and Image Loading  
@@ -1018,7 +1018,7 @@ Document: https://github.com/koush/ion#more-examples
 1. Android Networking  
 Android Networking is a powerful library for doing any type of networking in Android Applications 
 Project Address: https://github.com/amitshekhariitbhu/AndroidNetworking  
-Document: http://amitshekhariitbhu.github.io/AndroidNetworking/  
+Document: https://amitshekhariitbhu.github.io/AndroidNetworking/  
    
 1. Http Request  
 A simple convenience library for using a HttpURLConnection to make requests and access the response.  
@@ -1029,14 +1029,14 @@ Document: https://github.com/kevinsawicki/http-request#examples
 RoboSpice is a modular android library that makes writing asynchronous network requests easy  
 Project Address: https://github.com/stephanenicolas/robospice  
 Demo Apk: https://github.com/stephanenicolas/RoboDemo/downloads  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 4. Database  
 1. greenDAO  
 GreenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. Being highly optimized for Android, greenDAO offers great performance and consumes minimal memory.  
 Project Address: https://github.com/greenrobot/greenDAO  
-Document: http://greendao-orm.com/documentation/  
-Official Website: http://greendao-orm.com/  
+Document: https://greendao-orm.com/documentation/  
+Official Website: https://greendao-orm.com/  
    
 1. ActiveAndroid  
 Active record style SQLite persistence for Android  
@@ -1046,13 +1046,13 @@ Document: https://github.com/pardom/ActiveAndroid/wiki/_pages
 1. Sprinkles  
 Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications  
 Project Address: https://github.com/emilsjolander/sprinkles  
-Document: http://emilsjolander.github.io/blog/2013/12/18/android-with-sprinkles/   
+Document: https://emilsjolander.github.io/blog/2013/12/18/android-with-sprinkles/   
    
 1. ormlite-android  
 ORMLite Android functionality used in conjunction with ormlite-core  
 Project Address: https://github.com/j256/ormlite-android  
-Document: http://ormlite.com/sqlite_java_android_orm.shtml   
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+Document: https://ormlite.com/sqlite_java_android_orm.shtml   
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 5. Android common lib   
 1. Guava  
@@ -1064,7 +1064,7 @@ Document: https://code.google.com/p/guava-libraries/wiki/GuavaExplained
 Easy, Fast Networking for Android  
 Project Address: https://android.googlesource.com/platform/frameworks/volley  
 Github Address: https://github.com/mcxiaoke/android-volley    
-Document: http://commondatastorage.googleapis.com/io-2013/presentations/110%20-%20Volley-%20Easy,%20Fast%20Networking%20for%20Android.pdf  
+Document: https://commondatastorage.googleapis.com/io-2013/presentations/110%20-%20Volley-%20Easy,%20Fast%20Networking%20for%20Android.pdf  
 
 1. AndroidCommon  
 Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  
@@ -1079,7 +1079,7 @@ Project Address: https://github.com/pyricau/shipfaster
 1. CleanAndroidCode  
 This project is a proof of concept to show how to integrate Dagger, Otto and AndroidAnnotations.  
 Project Address: https://github.com/pyricau/CleanAndroidCode  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 6. Android Compatible low version  
 1. ActionBarSherlock  
@@ -1091,13 +1091,13 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.actionbarsherlock.sa
 Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!  
 Project Address: https://github.com/JakeWharton/NineOldAndroids  
 Demo Apk: https://play.google.com/store/apps/details?id=com.jakewharton.nineoldandroids.sample  
-Document: http://nineoldandroids.com/  
+Document: https://nineoldandroids.com/  
    
 1. HoloEverywhere  
 Bringing Holo Theme from Android 4.1 to 2.1 and above.  
 Project Address: https://github.com/Prototik/HoloEverywhere  
 Demo Apk: https://raw.github.com/Prototik/HoloEverywhere/repo/org/holoeverywhere/demo/2.1.0/demo-2.1.0.apk  
-Document: http://android-developers.blogspot.com/2012/01/holo-everywhere.html  
+Document: https://android-developers.blogspot.com/2012/01/holo-everywhere.html  
    
 1. SherlockNavigationDrawer  
 Modification of the Android NavigationDrawer sample to use ActionbarSherlock so that we can use the NavigationDrawer on older devices  
@@ -1106,7 +1106,7 @@ Project Address: https://github.com/tobykurien/SherlockNavigationDrawer
 1. Notifications4EveryWhere  
 Bringing Notifications from Android 4.1 to 2.2 and above.  
 Project Address: https://github.com/youxiachai/Notifications4EveryWhere  
-NavigationDrawerDocument: http://developer.android.com/training/implementing-navigation/nav-drawer.html  
+NavigationDrawerDocument: https://developer.android.com/training/implementing-navigation/nav-drawer.html  
 
 1. Android Switch Widget Backport  
 A backport of the Switch widget that was introduced on Android 4.X to Android2.1++  
@@ -1117,19 +1117,19 @@ Document: https://github.com/BoD/android-switch-backport#using-the-switch
 1. android-datepicker  
 Android 4.0 DatePicker backported to 2.2  
 Project Address: https://github.com/SimonVT/android-datepicker  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 7. Multimedia  
 1. cocos2d-x  
 cocos2d-x is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, OS X, Windows and Linux.  
 Project Address: https://github.com/cocos2d/cocos2d-x  
-Document: http://www.cocos2d-x.org/wiki  
-Official Website: http://www.cocos2d-x.org/  
+Document: https://www.cocos2d-x.org/wiki  
+Official Website: https://www.cocos2d-x.org/  
    
 1. Vitamio  
 Vitamio is an open multimedia framework for Android and iOS, with full and real hardware accelerated decoder and renderer.  
 Project Address: https://github.com/yixia/VitamioBundle  
-Document: http://www.vitamio.org/docs/    
+Document: https://www.vitamio.org/docs/    
    
 1. PhotoProcessing  
 A demo of how you can process photos leveraging the ndk, support Instafix, Ansel, Testino, XPro, Retro, BW, Sepia, Cyano, Georgia, Sahara, HDR, Rotate, Flip and so on  
@@ -1160,7 +1160,7 @@ Renderings: ![Renderings](https://github.com/jdamcd/android-crop/raw/master/scre
 1. TileView  
 The TileView widget is a subclass of ViewGroup that provides a mechanism to asynchronously display tile-based images, with additional functionality for 2D dragging, flinging, pinch or double-tap to zoom, adding overlaying Views (markers), built-in Hot Spot support, dynamic path drawing, multiple levels of detail, and support for any relative positioning or coordinate system.  
 Project Address: https://github.com/moagrius/TileView  
-Demo Apk: http://moagrius.github.io/TileView/TileViewDemo.apk  
+Demo Apk: https://moagrius.github.io/TileView/TileViewDemo.apk  
 
 1. BlurEffectForAndroidDesign  
 Sample to show how to implement blur graphical tricks  
@@ -1174,8 +1174,8 @@ Demo Apk: https://play.google.com/store/apps/details?id=teaonly.droideye
 1. libpng for Android  
 libpng for Android NDK  
 Project Address: https://github.com/julienr/libpng-android  
-Document: http://www.libpng.org/pub/png/libpng.html  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+Document: https://www.libpng.org/pub/png/libpng.html  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 1. Image File Selector  
 Project Address: https://github.com/sw926/ImageFileSelector 
@@ -1191,9 +1191,9 @@ Document: https://github.com/greenrobot/EventBus#general-usage-and-api
 1. Otto  
 An enhanced Guava-based event bus with emphasis on Android support.  
 Project Address: https://github.com/square/otto  
-Document: http://square.github.io/otto/  
+Document: https://square.github.io/otto/  
 Demo Apk: https://play.google.com/store/apps/details?id=de.greenrobot.eventperf  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 #### 9. Sensor  
 1. Great Android Sensing Toolkit  
@@ -1211,7 +1211,7 @@ Document: https://docs.google.com/document/d/1TqThJULb-4e6TGb1gdkAaPCfyuXStjJpbn
 GPSLogger is an Android app that logs GPS information to GPX, KML or text files and has options for annotating and sharing.  
 Project Address: https://github.com/mendhak/gpslogger  
 Demo Apk: https://play.google.com/store/apps/details?id=com.mendhak.gpslogger  
-Document: http://code.mendhak.com/gpslogger/  
+Document: https://code.mendhak.com/gpslogger/  
 
 1. Pedometer  
 Lightweight pedometer app for Android using the hardware step sensor  
@@ -1228,7 +1228,7 @@ Project Address: https://github.com/jeppsson/Arduino-Communicator
 1. android-pedometer  
 App for Android phones that counts your steps.  
 Project Address: https://github.com/bagilevi/android-pedometer  
-Demo Apk: http://pedometer.googlecode.com/files/Pedometer-1.4.apk  
+Demo Apk: https://pedometer.googlecode.com/files/Pedometer-1.4.apk  
 
 1. OwnTracks for Android  
 OwnTracks Android App  
@@ -1247,7 +1247,7 @@ Project Address: https://github.com/phishman3579/android-heart-rate-monitor
 This library allows for easy access to a Bluetooth LE device's AdRecord and RSSI value. It offers additional functionality for iBeacons.  
 Project Address: https://github.com/alt236/Bluetooth-LE-Library---Android  
 Demo Apk: https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. Sensey   
 Android library which makes detecting gestures a breeze.  
@@ -1257,7 +1257,7 @@ Project Address: https://github.com/nisrulz/sensey
 1. SQLCipher  
 SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.  
 Project Address: https://github.com/sqlcipher/sqlcipher  
-Document: http://sqlcipher.net/sqlcipher-for-android/  
+Document: https://sqlcipher.net/sqlcipher-for-android/  
 
 1. Conceal  
 Conceal provides easy Android APIs for performing fast encryption and authentication of data, such as that stored on SD cards  
@@ -1286,7 +1286,7 @@ lockpattern activity for Android
 Project Address: https://code.google.com/p/android-lockpattern/  
 Demo Apk: https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 Document: https://code.google.com/p/android-lockpattern/wiki/QuickUse  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 11. Maps
 1. GraphHopper
@@ -1304,7 +1304,7 @@ Project Address: https://github.com/mapsforge/mapsforge/
 Document: https://github.com/mapsforge/mapsforge/blob/master/docs/Getting-Started-Developers.md  
 Example APK address: https://graphhopper.com/#community  
 Renderings: ![Renderings](https://raw.githubusercontent.com/mapsforge/mapsforge/master/docs/images/screenshot-berlin-1.png)
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 12. Others  
 1. Salvage view  
@@ -1324,7 +1324,7 @@ Document: https://amitshekhariitbhu.github.io/GlideBitmapPool/
 1. jsoup  
 Java HTML Parser, with best of DOM, CSS, and jquery  
 Project Address: https://github.com/jhy/jsoup  
-Official Website: http://jsoup.org/  
+Official Website: https://jsoup.org/  
    
 1. ZIP  
 ZeroTurnaround ZIP Library  
@@ -1334,8 +1334,8 @@ Document: https://github.com/zeroturnaround/zt-zip#examples
 1. Cobub Razor  
 Cobub Razor - Open Source Mobile Analytics Solution, include web, android，ios, window phone  
 Project Address: https://github.com/cobub/razor  
-Demo Apk: http://demo.cobub.com/razor  
-Document: http://dev.cobub.com/  
+Demo Apk: https://demo.cobub.com/razor  
+Document: https://dev.cobub.com/  
    
 1. aFileChooser  
 Android library that provides a file explorer to let users select files on external storage.  
@@ -1366,12 +1366,12 @@ Document: https://developers.google.com/cast/
 1. Uninstall_Statics  
 Android Statistical application is uninstalled  
 Project Address: https://github.com/sevenler/Uninstall_Statics  
-Document: http://www.cnblogs.com/zealotrouge/p/3157126.html  
+Document: https://www.cnblogs.com/zealotrouge/p/3157126.html  
 
 1. xCombine  
 Android Plugin Framework  
 Project Address: https://github.com/wyouflf/xCombine  
-Document: http://my.oschina.net/u/1171837/blog/155377  
+Document: https://my.oschina.net/u/1171837/blog/155377  
 
 1. Memento  
 Memento is an annotation processor for Android that gives your activities a memory. It introduces the @Retain annotation, which allows you to retain arbitrary fields of an activity across configuration changes in a simple and type-safe manner.  
@@ -1398,7 +1398,7 @@ Demo Apk: https://github.com/Comcast/FreeFlow/releases
 1. Android Gesture Detectors Framework  
 Gesture detector framework for multitouch handling on Android  
 Project Address: https://github.com/Almeros/android-gesture-detectors  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. CacheUtilsLibrary  
 This is a simple Android utils library to write any type of data into cache files and then read them later, using Gson to serialize and deserialize these data.  
@@ -1442,7 +1442,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=org.qii.weiciyuan
 (6) gnucash-android  
 Gnucash for Android mobile companion application.  
 Project Address: https://github.com/codinguser/gnucash-android  
-Demo Apk: http://play.google.com/store/apps/details?id=org.gnucash.android  
+Demo Apk: https://play.google.com/store/apps/details?id=org.gnucash.android  
    
 (7) AntennaPod  
 A podcast manager for Android  
@@ -1479,15 +1479,15 @@ Etar is an OpenSource material designed calendar
 Project Address: https://github.com/xsoh/Etar-Calendar  
 Demo Apk: https://play.google.com/store/apps/details?id=ws.xsoh.etar  
 Renderings: ![Etar Calendar](https://raw.githubusercontent.com/xsoh/Etar-Calendar/materialdesign/assets/_pre_prod/publish/v1.0/animation.gif)  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 ## 4: Development and testing tools  
-Android open source projects about development tools and testing tools.  <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+Android open source projects about development tools and testing tools.  <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 1. Development productivity tools  
 1. Json2Java  
 Automate processing Java classes to mirror json models.  
 Project Address: https://github.com/jonfhancock/JsonToJava  
-Online Demo: http://jsontojava.appspot.com/  
+Online Demo: https://jsontojava.appspot.com/  
 
 1. IntelliJ Plugin for Android Parcelable boilerplate code generation  
 IntelliJ Plugin for Android Parcelable boilerplate code generation.  
@@ -1511,7 +1511,7 @@ Project Address: https://github.com/inmite/android-selector-chapek
 1. Android Action Bar Style Generator  
 Easily create a simple, attractive and seamless custom action bar style for your Android application  
 Project Address: https://github.com/jgilfelt/android-actionbarstylegenerator  
-Online Demo: http://jgilfelt.github.io/android-actionbarstylegenerator/  
+Online Demo: https://jgilfelt.github.io/android-actionbarstylegenerator/  
 
 1. ButterKnifeZelezny  
 Android Studio plug-in for generating [ButterKnife](https://github.com/JakeWharton/butterknife) injections from selected layout XML.  
@@ -1523,7 +1523,7 @@ Project Address: https://github.com/mediarain/RoboCoP
 
 1. appiconsizes  
 IOS and Android App Icon size generator  
-Project Address: http://www.appiconsizes.com/  
+Project Address: https://www.appiconsizes.com/  
 
 1. Gradle Retrolambda Plugin  
 This plugin will automatically build your java or android project with [Retrolambda](https://github.com/orfjackal/retrolambda), giving you lambda goodness on java 6 or 7. It relies on the wonderful retrolambda by Esko Luontola.  
@@ -1532,9 +1532,9 @@ Project Address: https://github.com/evant/gradle-retrolambda
 1. jsonschema2pojo  
 Generates Java types from JSON Schema (or example JSON) and annotates those types for data-binding with Jackson 1.x or 2.x, Gson.  
 Project Address: https://github.com/joelittlejohn/jsonschema2pojo  
-Online Demo: http://www.jsonschema2pojo.org/  
+Online Demo: https://www.jsonschema2pojo.org/  
 
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 2. Develop self-test related  
 1. Quality Tools for Android  
@@ -1550,7 +1550,7 @@ Document: https://code.google.com/p/android-test-kit/w/list
 Robolectric is a unit test framework that de-fangs the Android SDK so you can test-drive the development of your Android app.  
 Project Address: https://github.com/robolectric/robolectric  
 Demo Apk: https://github.com/robolectric/robolectricsample  
-Document: http://robolectric.org/  
+Document: https://robolectric.org/  
 
 1. Android FEST  
 A set of FEST assertion helpers geared toward testing Android.  
@@ -1575,14 +1575,14 @@ Project Address: https://github.com/rtyley/android-screenshot-lib
 1. sonar-android-lint-plugin  
 Extension plugin for Android Lint in Sonar  
 Project Address: https://github.com/SonarCommunity/sonar-android  
-Document: http://docs.codehaus.org/display/SONAR/Android+Plugin  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+Document: https://docs.codehaus.org/display/SONAR/Android+Plugin  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 3. Testing tools  
 1. Spoon  
 Distributing instrumentation tests to all your Androids.  
 Project Address: https://github.com/square/spoon    
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 4. Development and build environment  
 1. Buck  
@@ -1599,7 +1599,7 @@ Project Address: https://github.com/umeng/umeng-muti-channel-build-tool
    
 1. Genymotion  
 THE FASTER ANDROID EMULATOR  
-Project Address: http://www.genymotion.com/  
+Project Address: https://www.genymotion.com/  
   
 1. gradle-mvn-push  
 Helper to upload Gradle Android Artifacts to Maven repositories  
@@ -1617,7 +1617,7 @@ Project Address: https://github.com/mosabua/maven-android-sdk-deployer
 1. SDK Manager Plugin  
 Gradle plugin which downloads and manages your Android SDK.  
 Project Address: https://github.com/JakeWharton/sdk-manager-plugin  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 5. Others  
 1. ViewServer  
@@ -1647,29 +1647,29 @@ Document: https://github.com/ACRA/acra/wiki/BasicSetup
 Chrome Extension providing enhanced resource navigation for GitHub hosted Android projects  
 Project Address: https://github.com/jgilfelt/android-resource-navigator  
 Online Demo: https://chrome.google.com/webstore/detail/android-resource-navigato/agoomkionjjbejegcejiefodgbckeebo?hl=en&gl=GB  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## 4. Outstanding individuals and groups  
 #### 1. Individual  
 1. JakeWharton  
 Github Address: https://github.com/JakeWharton  
 Masterpiece: ActionBarSherlock，Android-ViewPagerIndicator，Nine Old Androids，SwipeToDismissNOA，hugo，butterknife，Android-DirectionalViewPager, scalpel  
-HomePage: http://jakewharton.com/  
+HomePage: https://jakewharton.com/  
    
 1. Chris Banes  
 Github Address: https://github.com/chrisbanes  
 Masterpiece: ActionBar-PullToRefresh，PhotoView，Android-BitmapCache，Android-PullToRefresh  
-HomePage: http://chris.banes.me/  
+HomePage: https://chris.banes.me/  
    
 1. Koushik Dutta  
 Github Address: https://github.com/koush  
 Masterpiece: Superuser，AndroidAsync，UrlImageViewHelper，ion  
-HomePage: http://koush.com/  
+HomePage: https://koush.com/  
    
 1. Simon Vig  
 Github Address: https://github.com/SimonVT  
 Masterpiece: android-menudrawer，MessageBar  
-HomePage: http://simonvt.net/  
+HomePage: https://simonvt.net/  
    
 1. Manuel Peinado  
 Github Address: https://github.com/ManuelPeinado  
@@ -1678,46 +1678,46 @@ Masterpiece: FadingActionBar，GlassActionBar，RefreshActionItem，QuickReturnH
 1. Emil Sj?lander  
 Github Address: https://github.com/emilsjolander  
 Masterpiece: StickyListHeaders，sprinkles，android-FlipView  
-HomePage: http://emilsjolander.se/  
+HomePage: https://emilsjolander.se/  
    
 1. greenrobot  
 Github Address: https://github.com/greenrobot  
 Masterpiece: greenDAO，EventBus  
-HomePage: http://greenrobot.de/  
+HomePage: https://greenrobot.de/  
    
 1. Jeff Gilfelt  
 Github Address: https://github.com/jgilfelt  
 Masterpiece: android-mapviewballoons，android-viewbadger，android-actionbarstylegenerator，android-sqlite-asset-helper  
-HomePage: http://jeffgilfelt.com  
+HomePage: https://jeffgilfelt.com  
 
 1.  Romain Guy  
 Github Address: https://github.com/romainguy  
 Masterpiece: ViewServer  
-HomePage: http://www.curious-creature.org/category/android/   
-Other：http://www.flickr.com/photos/romainguy  
+HomePage: https://www.curious-creature.org/category/android/   
+Other：https://www.flickr.com/photos/romainguy  
 
 1. sephiroth74  
 Github Address: https://github.com/sephiroth74  
 Masterpiece: ImageViewZoom，HorizontalVariableListView，AndroidWheel，purePDF  
-HomePage: http://www.sephiroth.it/   
+HomePage: https://www.sephiroth.it/   
 
 1. Cyril Mottier  
 Github Address: https://github.com/cyrilmottier  
 Masterpiece: GreenDroid，Polaris  
-HomePage: http://cyrilmottier.com/  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+HomePage: https://cyrilmottier.com/  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 2. Group  
 1. Square  
 Github Address: https://github.com/square   
 Masterpiece: okhttp, fest-android，android-times-square, picasso, dagger, spoon and so on
-HomePage: http://square.github.io/  
+HomePage: https://square.github.io/  
    
 1. Inmite s.r.o.  
 Github Address: https://github.com/inmite  
 Masterpiece: android-styled-dialogs，android-grid-wichterle，android-selector-chapek  
-HomePage: http://www.inmite.eu/  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+HomePage: https://www.inmite.eu/  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="https://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## License
 
@@ -1727,7 +1727,7 @@ HomePage: http://www.inmite.eu/
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+       https://www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
